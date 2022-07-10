@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "title": "Luke Skywalker",
+      "rating": 5,
+      "imageURL" : "https://static.wikia.nocookie.net/charactercommunity/images/8/84/Lukeskywalker.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Han Solo",
+      "rating": 5,
+      "imageURL" : "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Han_Solo_depicted_in_promotional_image_for_Star_Wars_%281977%29.jpg/220px-Han_Solo_depicted_in_promotional_image_for_Star_Wars_%281977%29.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Leia Organa",
+      "rating": 4,
+      "imageURL" : "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Princess_Leia%27s_characteristic_hairstyle.jpg/220px-Princess_Leia%27s_characteristic_hairstyle.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Chewbacca",
+      "rating": 3,
+      "imageURL" : "https://www.thefactsite.com/wp-content/uploads/2013/01/chewbacca.jpg"
+    },
+    {
+      "id": 5,
+      "title": "R2-D2",
+      "rating": 3,
+      "imageURL" : "https://static.wikia.nocookie.net/starwars/images/1/1a/R2d2.jpg"
+    },
+    {
+      "id": 6,
+      "title": "C3PO",
+      "rating": 2,
+      "imageURL" : "https://images.squarespace-cdn.com/content/v1/54655fb6e4b0941649feda1f/1580257580669-J39QCO33ZG4RJZX536BO/Edition-EKTAlux-Tom-Schierlitz-C3PO.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Darth Vader",
+      "rating": 5,
+      "imageURL" : "https://www.toplessrobot.com/wp-content/uploads/2009/10/darth-vader.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Emperor Palpatine",
+      "rating": 2,
+      "imageURL" : "https://heroichollywood.com/wp-content/uploads/2019/12/Star-Wars-George-Lucas-Palpatine.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Stormtrooper #4",
+      "rating": 2,
+      "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/0/08/MCM_London_May_15_-_Stormtrooper_%2818246218651%29.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Ewok #69",
+      "rating": 3,
+      "imageURL" : "https://static.wikia.nocookie.net/starwars/images/9/95/Deej.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Gungan #Missa",
+      "rating": 4,
+      "imageURL" : "https://i.pinimg.com/originals/84/73/e1/8473e1aa7bca6e71e79c3c44ff9b8035.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Boss Nas",
+      "rating": 5,
+      "imageURL" : "https://static.wikia.nocookie.net/starwars/images/9/9a/Boss_Nass_of_Otoh_Gunga.jpg"
+    }
+  ]
